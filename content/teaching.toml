@@ -1,0 +1,10 @@
+type = "card"
+title = "项目"
+description = "我做过的项目。"
+
+[[items]]
+title = "示例项目"
+subtitle = "示例职责"
+date = "2024"
+content = "内容与职责简介。"
+tags = ["tag示例"]

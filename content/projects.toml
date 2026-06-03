@@ -1,0 +1,24 @@
+type = "projects"
+title = "Projects"
+description = "Projects I've worked on."
+
+[[projects]]
+title = "Sample Project"
+subtitle = "Sample Role"
+date = "2024"
+summary = "Content and responsibilities overview."
+tags = ["tagExample"]
+
+[[projects]]
+title = "AI Assistant"
+subtitle = "Product Lead"
+date = "2024"
+summary = "LLM-powered intelligent assistant product, responsible for product design and technical architecture."
+tags = ["AI", "Product Design"]
+
+[[projects]]
+title = "User Behavior Analytics Platform"
+subtitle = "Core Developer"
+date = "2023"
+summary = "Data-driven user behavior analytics platform with user profiling and recommendation capabilities."
+tags = ["Data Analytics", "Recommendation System"]

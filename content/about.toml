@@ -1,0 +1,38 @@
+type = "about"
+title = "关于我"
+
+[profile]
+research_interests = [
+  "用户信息行为",
+  "大模型应用"
+]
+
+career_interests = [
+  "产品经理",
+  "AI产品",
+  "策略产品"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "关于我"
+
+[[sections]]
+id = "featured_blog"
+type = "blog"
+title = "Selected Blog"
+limit = 3
+
+[[sections]]
+id = "featured_projects"
+type = "projects"
+title = "Selected Projects"
+limit = 3
+
+[[sections]]
+id = "news"
+type = "list"
+title = "News"
+source = "news.toml"
