@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Evaluation on Betty Xu</title><link>https://BettyXu2001.github.io/en/tags/evaluation/</link><description>Recent content in Evaluation on Betty Xu</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 10 Aug 2026 02:22:43 +0800</lastBuildDate><atom:link href="https://BettyXu2001.github.io/en/tags/evaluation/index.xml" rel="self" type="application/rss+xml"/><item><title>Prompt Evaluator</title><link>https://BettyXu2001.github.io/en/tools/prompt-evaluator/</link><pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate><guid>https://BettyXu2001.github.io/en/tools/prompt-evaluator/</guid><description>&lt;h2 id="problem-it-solves"&gt;Problem it solves&lt;/h2&gt;
+&lt;p&gt;After writing a prompt, people usually spend cycles manually testing edge cases. This tool automates the common evaluation dimensions.&lt;/p&gt;
+&lt;h2 id="scope"&gt;Scope&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Works well for task-oriented prompts (classification, extraction, generation)&lt;/li&gt;
+&lt;li&gt;Not designed for multi-turn conversation prompt design&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="usage"&gt;Usage&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;npx prompt-evaluator ./my-prompt.md
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item></channel></rss>
