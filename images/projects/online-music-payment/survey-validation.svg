@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Survey research and validation path</title>
+  <desc id="desc">Five steps from topic selection to formal survey, with pilot reliability, validity, response, and valid-response metrics.</desc>
+  <rect width="1600" height="900" rx="40" fill="#f6fbfe"/>
+  <g font-family="Inter, Noto Sans SC, Microsoft YaHei, sans-serif">
+    <text x="90" y="105" font-size="46" font-weight="800" fill="#123d56">Research &amp; Validation Path</text>
+    <text x="90" y="150" font-size="24" fill="#52788d">From a user-centered topic to an inspectable formal survey</text>
+
+    <path d="M190 325H1410" stroke="#b6dbea" stroke-width="12" stroke-linecap="round"/>
+    <g text-anchor="middle">
+      <g transform="translate(190 325)">
+        <circle r="58" fill="#123d56"/>
+        <text y="10" font-size="31" font-weight="800" fill="#fff">01</text>
+        <text y="115" font-size="25" font-weight="800" fill="#123d56">Topic</text>
+        <text y="151" font-size="19" fill="#52788d">User behavior + psychology</text>
+      </g>
+      <g transform="translate(495 325)">
+        <circle r="58" fill="#55b8dc"/>
+        <text y="10" font-size="31" font-weight="800" fill="#fff">02</text>
+        <text y="115" font-size="25" font-weight="800" fill="#123d56">Questionnaire</text>
+        <text y="151" font-size="19" fill="#52788d">Four-part instrument</text>
+      </g>
+      <g transform="translate(800 325)">
+        <circle r="58" fill="#ffd04f"/>
+        <text y="10" font-size="31" font-weight="800" fill="#123d56">03</text>
+        <text y="115" font-size="25" font-weight="800" fill="#123d56">Pilot</text>
+        <text y="151" font-size="19" fill="#52788d">50 students + 50 residents</text>
+      </g>
+      <g transform="translate(1105 325)">
+        <circle r="58" fill="#55b8dc"/>
+        <text y="10" font-size="31" font-weight="800" fill="#fff">04</text>
+        <text y="115" font-size="25" font-weight="800" fill="#123d56">Quality Tests</text>
+        <text y="151" font-size="19" fill="#52788d">Reliability + validity</text>
+      </g>
+      <g transform="translate(1410 325)">
+        <circle r="58" fill="#123d56"/>
+        <text y="10" font-size="31" font-weight="800" fill="#fff">05</text>
+        <text y="115" font-size="25" font-weight="800" fill="#123d56">Formal Survey</text>
+        <text y="151" font-size="19" fill="#52788d">Multistage sampling</text>
+      </g>
+    </g>
+
+    <g transform="translate(90 590)">
+      <g>
+        <rect width="330" height="190" rx="28" fill="#fff" stroke="#d8edf5" stroke-width="3"/>
+        <text x="30" y="48" font-size="21" font-weight="700" fill="#52788d">PILOT RELIABILITY</text>
+        <text x="30" y="123" font-size="58" font-weight="800" fill="#123d56">α 0.913</text>
+        <text x="30" y="160" font-size="19" fill="#52788d">13 scale items</text>
+      </g>
+      <g transform="translate(365)">
+        <rect width="330" height="190" rx="28" fill="#fff" stroke="#d8edf5" stroke-width="3"/>
+        <text x="30" y="48" font-size="21" font-weight="700" fill="#52788d">PILOT VALIDITY</text>
+        <text x="30" y="123" font-size="58" font-weight="800" fill="#123d56">KMO 0.867</text>
+        <text x="30" y="160" font-size="19" fill="#52788d">Bartlett p &lt; 0.05</text>
+      </g>
+      <g transform="translate(730)">
+        <rect width="690" height="190" rx="28" fill="#123d56"/>
+        <text x="34" y="48" font-size="21" font-weight="700" fill="#bceaff">FORMAL SURVEY</text>
+        <g text-anchor="middle">
+          <text x="118" y="119" font-size="52" font-weight="800" fill="#fff">800</text>
+          <text x="118" y="156" font-size="17" fill="#bceaff">distributed</text>
+          <text x="345" y="119" font-size="52" font-weight="800" fill="#ffd86b">740</text>
+          <text x="345" y="156" font-size="17" fill="#bceaff">recovered · 92.5%</text>
+          <text x="572" y="119" font-size="52" font-weight="800" fill="#fff">714</text>
+          <text x="572" y="156" font-size="17" fill="#bceaff">valid · 96.48%</text>
+        </g>
+        <path d="M208 112h44m183 0h44" stroke="#55b8dc" stroke-width="8" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="1510" y="850" text-anchor="end" font-size="18" fill="#7895a4">Project survey · 2022</text>
+  </g>
+</svg>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 980" role="img" aria-labelledby="title desc">
+  <title id="title">Random forest importance of online music payment drivers</title>
+  <desc id="desc">Horizontal bar chart showing catalog resources and sound quality as the two most important payment attraction factors.</desc>
+  <rect width="1600" height="980" rx="40" fill="#f6fbfe"/>
+  <g font-family="Inter, Noto Sans SC, Microsoft YaHei, sans-serif">
+    <text x="90" y="105" font-size="46" font-weight="800" fill="#123d56">Payment Attraction Factors</text>
+    <text x="90" y="150" font-size="24" fill="#52788d">Random forest feature importance</text>
+
+    <g transform="translate(90 210)">
+      <g>
+        <text x="0" y="38" font-size="22" font-weight="700" fill="#123d56">Catalog resources</text>
+        <rect x="260" width="760" height="48" rx="24" fill="#e3f2f8"/>
+        <rect x="260" width="733" height="48" rx="24" fill="#123d56"/>
+        <text x="1048" y="34" font-size="25" font-weight="800" fill="#123d56">30.54%</text>
+      </g>
+      <g transform="translate(0 82)">
+        <text x="0" y="38" font-size="22" font-weight="700" fill="#123d56">Sound quality</text>
+        <rect x="260" width="760" height="48" rx="24" fill="#e3f2f8"/>
+        <rect x="260" width="700" height="48" rx="24" fill="#ffd04f"/>
+        <text x="1048" y="34" font-size="25" font-weight="800" fill="#123d56">29.15%</text>
+      </g>
+      <g transform="translate(0 164)">
+        <text x="0" y="38" font-size="22" font-weight="700" fill="#123d56">Artists</text>
+        <rect x="260" width="760" height="48" rx="24" fill="#e3f2f8"/>
+        <rect x="260" width="303" height="48" rx="24" fill="#55b8dc"/>
+        <text x="1048" y="34" font-size="25" font-weight="800" fill="#123d56">12.61%</text>
+      </g>
+      <g transform="translate(0 246)">
+        <text x="0" y="38" font-size="22" font-weight="700" fill="#123d56">Consumption habits</text>
+        <rect x="260" width="760" height="48" rx="24" fill="#e3f2f8"/>
+        <rect x="260" width="269" height="48" rx="24" fill="#73c4e2"/>
+        <text x="1048" y="34" font-size="25" font-weight="800" fill="#123d56">11.21%</text>
+      </g>
+      <g transform="translate(0 328)">
+        <text x="0" y="38" font-size="22" font-weight="700" fill="#123d56">Paid services</text>
+        <rect x="260" width="760" height="48" rx="24" fill="#e3f2f8"/>
+        <rect x="260" width="234" height="48" rx="24" fill="#91d1e9"/>
+        <text x="1048" y="34" font-size="25" font-weight="800" fill="#123d56">9.74%</text>
+      </g>
+      <g transform="translate(0 410)">
+        <text x="0" y="38" font-size="22" font-weight="700" fill="#123d56">Values</text>
+        <rect x="260" width="760" height="48" rx="24" fill="#e3f2f8"/>
+        <rect x="260" width="89" height="48" rx="24" fill="#aeddec"/>
+        <text x="1048" y="34" font-size="25" font-weight="800" fill="#123d56">3.73%</text>
+      </g>
+      <g transform="translate(0 492)">
+        <text x="0" y="38" font-size="22" font-weight="700" fill="#123d56">Moral judgment</text>
+        <rect x="260" width="760" height="48" rx="24" fill="#e3f2f8"/>
+        <rect x="260" width="73" height="48" rx="24" fill="#c8e9f4"/>
+        <text x="1048" y="34" font-size="25" font-weight="800" fill="#123d56">3.03%</text>
+      </g>
+    </g>
+
+    <g transform="translate(1245 210)">
+      <rect width="265" height="165" rx="28" fill="#123d56"/>
+      <text x="28" y="46" font-size="20" font-weight="700" fill="#bceaff">TRAIN / TEST</text>
+      <text x="28" y="112" font-size="52" font-weight="800" fill="#fff">7 : 3</text>
+    </g>
+    <g transform="translate(1245 405)">
+      <rect width="265" height="230" rx="28" fill="#fff" stroke="#d8edf5" stroke-width="3"/>
+      <text x="28" y="47" font-size="20" font-weight="700" fill="#52788d">MODEL FIT</text>
+      <text x="28" y="112" font-size="39" font-weight="800" fill="#123d56">R² 0.65</text>
+      <text x="28" y="144" font-size="17" fill="#52788d">training</text>
+      <text x="28" y="198" font-size="39" font-weight="800" fill="#123d56">R² 0.62</text>
+      <text x="178" y="198" font-size="17" fill="#52788d">test</text>
+    </g>
+    <g transform="translate(90 830)">
+      <rect width="1040" height="82" rx="28" fill="#e4f5fb"/>
+      <circle cx="46" cy="41" r="14" fill="#ffd04f"/>
+      <text x="78" y="51" font-size="25" font-weight="800" fill="#123d56">Catalog + sound quality = 59.69% of total importance</text>
+    </g>
+    <text x="1510" y="890" text-anchor="end" font-size="18" fill="#7895a4">Project survey · 2022</text>
+  </g>
+</svg>
