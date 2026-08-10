@@ -16,13 +16,4 @@
 &lt;li&gt;Includes a dedicated orchestrator for AI product manager, LLM application, Agent/RAG product, model platform, and AI evaluation roles.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="scope"&gt;Scope&lt;/h2&gt;
-&lt;p&gt;The goal is not a fake-perfect resume. It is to make every application more explainable, evidence-based, and consistent. Users must supply their own real experience and materials — the suite does not fabricate.&lt;/p&gt;</description></item><item><title>Prompt Evaluator</title><link>https://BettyXu2001.github.io/en/tools/prompt-evaluator/</link><pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate><guid>https://BettyXu2001.github.io/en/tools/prompt-evaluator/</guid><description>&lt;h2 id="problem-it-solves"&gt;Problem it solves&lt;/h2&gt;
-&lt;p&gt;After writing a prompt, people usually spend cycles manually testing edge cases. This tool automates the common evaluation dimensions.&lt;/p&gt;
-&lt;h2 id="scope"&gt;Scope&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Works well for task-oriented prompts (classification, extraction, generation)&lt;/li&gt;
-&lt;li&gt;Not designed for multi-turn conversation prompt design&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="usage"&gt;Usage&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;npx prompt-evaluator ./my-prompt.md
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item></channel></rss>
+&lt;p&gt;The goal is not a fake-perfect resume. It is to make every application more explainable, evidence-based, and consistent. Users must supply their own real experience and materials — the suite does not fabricate.&lt;/p&gt;</description></item></channel></rss>
