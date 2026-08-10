@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>工具 on Betty Xu</title><link>https://BettyXu2001.github.io/tools/</link><description>Recent content in 工具 on Betty Xu</description><generator>Hugo</generator><language>zh-CN</language><atom:link href="https://BettyXu2001.github.io/tools/index.xml" rel="self" type="application/rss+xml"/><item><title>求职 Skills 套件</title><link>https://BettyXu2001.github.io/tools/job-search-skills/</link><pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate><guid>https://BettyXu2001.github.io/tools/job-search-skills/</guid><description>&lt;h2 id="解决的问题"&gt;解决的问题&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>工具 on Betty Xu</title><link>https://bettyxu2001.github.io/tools/</link><description>Recent content in 工具 on Betty Xu</description><generator>Hugo</generator><language>zh-CN</language><atom:link href="https://bettyxu2001.github.io/tools/index.xml" rel="self" type="application/rss+xml"/><item><title>求职 Skills 套件</title><link>https://bettyxu2001.github.io/tools/job-search-skills/</link><pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate><guid>https://bettyxu2001.github.io/tools/job-search-skills/</guid><description>&lt;h2 id="解决的问题"&gt;解决的问题&lt;/h2&gt;
 &lt;p&gt;多数求职 Prompt 和 Skills 只停留在简历润色或通用面试题。这个套件把求职当作一套可复用的操作系统：建立候选人证据库、把 JD 解析成结构化要求、把证据映射到要求、基于证据真实适配材料，并把真实面试结果回流到后续投递。&lt;/p&gt;
 &lt;h2 id="含什么"&gt;含什么&lt;/h2&gt;
 &lt;ul&gt;
@@ -9,7 +9,7 @@
 &lt;h2 id="适用边界"&gt;适用边界&lt;/h2&gt;
 &lt;p&gt;目标不是产出「虚假完美的简历」，而是让每一次投递更可解释、更基于证据、更一致。需要用户自己提供真实经历与材料，套件不做虚构。&lt;/p&gt;
 &lt;h2 id="仓库"&gt;仓库&lt;/h2&gt;
-&lt;p&gt;→ &lt;a href="https://github.com/BettyXu2001/excellent-job-search-skills"&gt;https://github.com/BettyXu2001/excellent-job-search-skills&lt;/a&gt;&lt;/p&gt;</description></item><item><title>学术写作 Skills 套件</title><link>https://BettyXu2001.github.io/tools/academic-writing-skills/</link><pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate><guid>https://BettyXu2001.github.io/tools/academic-writing-skills/</guid><description>&lt;h2 id="解决的问题"&gt;解决的问题&lt;/h2&gt;
+&lt;p&gt;→ &lt;a href="https://github.com/BettyXu2001/excellent-job-search-skills"&gt;https://github.com/BettyXu2001/excellent-job-search-skills&lt;/a&gt;&lt;/p&gt;</description></item><item><title>学术写作 Skills 套件</title><link>https://bettyxu2001.github.io/tools/academic-writing-skills/</link><pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate><guid>https://bettyxu2001.github.io/tools/academic-writing-skills/</guid><description>&lt;h2 id="解决的问题"&gt;解决的问题&lt;/h2&gt;
 &lt;p&gt;很多学术写作 Prompt 只优化最终文字。这个套件把论文当成一条研究流水线：论点依赖来源、方法、分析与报告选择，并要求 Agent 区分全文核验、摘要核验、用户提供证据、分析输出、推断与未核验材料。&lt;/p&gt;
 &lt;h2 id="含什么"&gt;含什么&lt;/h2&gt;
 &lt;ul&gt;
