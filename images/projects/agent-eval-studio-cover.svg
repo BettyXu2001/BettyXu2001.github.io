@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Agent Eval Studio evaluation workflow</title>
+  <desc id="desc">Golden Set flows through A/B evaluation and bad-case analysis into a release gate.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18131f"/><stop offset="1" stop-color="#2b1626"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#ff5ca8"/><stop offset="1" stop-color="#ff9d66"/></linearGradient>
+  </defs>
+  <rect width="1200" height="675" rx="36" fill="url(#bg)"/>
+  <circle cx="1060" cy="90" r="180" fill="#ff5ca8" opacity=".09"/>
+  <text x="72" y="92" fill="#fff" font-family="Inter,Segoe UI,sans-serif" font-size="38" font-weight="700">Agent Eval Studio</text>
+  <text x="72" y="130" fill="#bfb5c5" font-family="Inter,Segoe UI,sans-serif" font-size="19">Evidence before release decisions</text>
+  <g fill="#251e2c" stroke="#5b475f"><rect x="72" y="211" width="240" height="234" rx="24"/><rect x="371" y="182" width="270" height="292" rx="24"/><rect x="700" y="211" width="195" height="234" rx="24"/><rect x="954" y="182" width="174" height="292" rx="24" stroke="#ff5ca8"/></g>
+  <g font-family="Inter,Segoe UI,sans-serif"><g fill="#ff79b9" font-size="17" font-weight="700"><text x="102" y="258">GOLDEN SET</text><text x="402" y="229">A / B + RUBRIC</text><text x="730" y="258">BAD CASES</text><text x="982" y="229">RELEASE GATE</text></g>
+  <text x="102" y="332" fill="#fff" font-size="64" font-weight="750">60</text><text x="102" y="369" fill="#cfc5d3" font-size="18">samples · 10 task types</text><rect x="102" y="396" width="154" height="8" rx="4" fill="url(#accent)"/>
+  <rect x="402" y="267" width="208" height="58" rx="14" fill="#342739"/><rect x="402" y="342" width="208" height="58" rx="14" fill="#3c2939" stroke="#ff5ca8"/><text x="426" y="303" fill="#fff" font-size="18">Baseline</text><text x="426" y="378" fill="#fff" font-size="18">Candidate</text><text x="402" y="438" fill="#cfc5d3" font-size="18">5 scoring dimensions</text>
+  <path d="M735 309h125M735 345h94M735 381h112" stroke="#fff" stroke-width="12" stroke-linecap="round" opacity=".82"/><circle cx="850" cy="345" r="8" fill="#ff9d66"/>
+  <g fill="#cfc5d3" font-size="16"><text x="982" y="312">Quality</text><text x="982" y="351">Cost</text><text x="982" y="390">P95</text><text x="982" y="429">Safety</text></g><g fill="#ff79b9"><circle cx="1090" cy="306" r="7"/><circle cx="1090" cy="345" r="7"/><circle cx="1090" cy="384" r="7"/><circle cx="1090" cy="423" r="7"/></g></g>
+  <g stroke="#ff7bad" stroke-width="4"><path d="M322 328h38"/><path d="M651 328h38"/><path d="M905 328h38"/></g><g fill="#ff7bad"><path d="M360 328l-12-8v16z"/><path d="M689 328l-12-8v16z"/><path d="M943 328l-12-8v16z"/></g>
+  <rect x="72" y="529" width="1056" height="82" rx="20" fill="#201925" stroke="#4b394f"/><g fill="#fff" font-family="Inter,Segoe UI,sans-serif" font-size="21" font-weight="650"><text x="103" y="578">JSON artifacts</text><text x="394" y="578">HTML report</text><text x="668" y="578">Traceable decision</text></g><g fill="#8d8292" font-family="Inter,Segoe UI,sans-serif" font-size="20"><text x="350" y="578">+</text><text x="622" y="578">+</text></g>
+</svg>
